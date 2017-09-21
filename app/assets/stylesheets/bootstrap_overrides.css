@@ -1,0 +1,15 @@
+.red {
+    background-color: #ffb3b3;
+}
+.navbar-default .navbar-toggle {
+    border-color: #888;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #ff6666;
+}
+.panel-default>.panel-heading {
+  background-color: #fed4d4;
+}
+.panel-heading {
+  font-size: 20px;
+}
