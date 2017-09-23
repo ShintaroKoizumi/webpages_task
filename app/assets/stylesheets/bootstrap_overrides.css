@@ -13,3 +13,6 @@
 .panel-heading {
   font-size: 20px;
 }
+ul, menu, dir {
+    -webkit-padding-start: 0px;
+}
